@@ -1,0 +1,21 @@
+[submodule "aes-gladman-cmake"]
+	path = aes-gladman-cmake
+	url = https://github.com/madwyn/aes-gladman-cmake.git
+[submodule "crc16"]
+	path = crc16
+	url = https://github.com/madwyn/crc16.git
+[submodule "crc8-cmake"]
+	path = crc8-cmake
+	url = https://github.com/madwyn/crc8-cmake.git
+[submodule "CRC8"]
+	path = CRC8
+	url = https://github.com/UlrikHjort/CRC8.git
+[submodule "aes"]
+	path = aes
+	url = https://github.com/BrianGladman/aes.git
+[submodule "mad-hmac"]
+	path = mad-hmac
+	url = https://github.com/madwyn/mad-hmac.git
+[submodule "keccak"]
+	path = keccak
+	url = https://github.com/madwyn/keccak.git
